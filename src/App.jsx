@@ -67,7 +67,6 @@ class App extends React.Component {
 
   componentDidMount() {
     this.setState({ location: localStorage.getItem("location") || "" });
-    // this.fetchWeathker();
   }
 
   componentDidUpdate(prevPops, prevState) {

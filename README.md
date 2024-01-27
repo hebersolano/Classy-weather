@@ -1,1 +1,1 @@
-# React Class Component Practive
+# React Class Component Practice
